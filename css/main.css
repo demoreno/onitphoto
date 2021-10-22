@@ -1203,7 +1203,7 @@ header .logo {
 	float: left;
 	margin-left: 20px;
 	margin-right: 50px;
-	margin-top: 25px;
+	margin-top: -5px;
 	position: relative;
 }
 header .logo a {
@@ -1215,9 +1215,9 @@ header .logo a {
 	text-shadow: none;
 	color: transparent;
 	width: 92px;
-	height: 15px;
-	background: url("../images/logo.png") no-repeat center;
-	background-size: 92px 15px;
+	height: 85px;
+	background: url("../images/1634898563321.webp") no-repeat center;
+	background-size: 92px 121px;
 }
 
 /**
