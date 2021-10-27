@@ -2233,9 +2233,6 @@ header .logo a {
 .services-content {
 	max-width: 1200px;
 }
-.services-content .owl-item {
-	width: 600px !important;
-}
 .services-list {
 	margin-top: 1.2rem;
 	text-align: center;
